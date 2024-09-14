@@ -1,0 +1,9 @@
+numpy
+pandas
+os
+pillow
+requests
+pathlib
+urllib
+functools
+tensorflow
