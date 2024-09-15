@@ -1,9 +1,7 @@
-numpy
-pandas
-os
-pillow
 requests
-pathlib
-urllib
-functools
+pandas
+tqdm
+numpy
+Pillow
+ipykernel
 tensorflow
